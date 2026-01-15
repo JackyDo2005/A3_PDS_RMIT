@@ -107,5 +107,65 @@ Task 3: Data Modeling
 - Final model recommendation with justification
 
 ================================================================================
+CONTRIBUTIONS (50% - 50% Split)
+================================================================================
+
+Do Duy Hung (s3991053) - 50% Contribution
+-------------------------------------------
+Task 1: Retrieving and Preparing the Data
+- Data import and initial inspection
+- Missing value detection and handling
+- Outlier detection and handling
+- Univariate analysis
+- Bivariate analysis
+- Correlation analysis
+
+Task 2: Feature Engineering
+- Feature Selection Method 1: Filter-Based (Variance + Correlation)
+- Classification Feature Selection (Supervised Methods)
+  - Mutual Information Ranking (Filter Method)
+  - Recursive Feature Elimination with CV (Wrapper Method)
+  - Final Feature Selection Decision for Classification
+
+Task 3: Data Modeling
+- Classification Task
+  - Baseline Model 1: Logistic Regression
+  - Baseline Model 2: Random Forest
+  - Advanced Model: XGBoost
+  - Innovative Model: CRAE (Confidence-Routed Adaptive Ensemble)
+  - Model Comparison & Final Recommendation for Classification
+
+Deliverables:
+- Report (contribution)
+- Presentation Slides (contribution)
+
+Ho Dinh Gia Bao (s4028938) - 50% Contribution
+----------------------------------------------
+Task 1: Retrieving and Preparing the Data
+- Univariate analysis
+- Correlation analysis
+
+Task 2: Feature Engineering
+- Advanced Feature Engineering
+  - Log Transformation for skewed features
+  - Behavioral Feature Engineering (Total_Pages, Avg_Time_Per_Page, Product_Focus_Ratio)
+  - Temporal Pattern Encoding (Is_Peak_Season)
+  - Redundant Feature Removal
+- Clustering Feature Selection (Unsupervised - MCFS)
+  - Correlation Analysis of Selected Clustering Features
+  - Clustering Feature Summary
+
+Task 3: Data Modeling
+- Clustering Task
+  - Baseline Model 1: K-Means Clustering
+  - Baseline Model 2: DBSCAN (Density-Based)
+  - Advanced Model: Agglomerative Clustering (Hierarchical)
+  - Cluster Profiling & Interpretation
+  - Model Comparison & Final Recommendation for Clustering
+
+Deliverables:
+- Report (contribution)
+
+================================================================================
 END OF README
 ================================================================================
