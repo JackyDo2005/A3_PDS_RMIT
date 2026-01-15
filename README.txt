@@ -77,7 +77,7 @@ Note: The notebook contains the complete data analysis pipeline including:
 STREAMLIT DEPLOYMENT
 ================================================================================
 
-Live Demo: 
+Live Demo: https://ug2pdsa3rmit.streamlit.app/
 
 The deployed application provides:
 - Interactive prediction interface
