@@ -1,0 +1,18 @@
+.venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.vscode/
+__pycache__/
+*.pyc
+
+# Model files (too large for GitHub)
+/models/
+
+# Local training script (not needed for cloud)
+save_models.py
+
+.saved_models/
+assessment_detail.txt
